@@ -1,0 +1,2 @@
+ DELETE FROM clientes WHERE id = 3;
+DELETE 1

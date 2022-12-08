@@ -1,0 +1,1 @@
+SELECT preco,id,nome FROM produtos ORDER BY preco ASC LIMIT 3;
